@@ -8,7 +8,7 @@ https://medium.com/@multidots/glide-vs-picasso-930eed42b81d
 
 https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 
-
+<hr/>
 
 https://github.com/futurice/android-best-practices
 
@@ -18,7 +18,7 @@ https://github.com/commonsguy/cw-omnibus
 
 https://guides.codepath.com/android
 
-
+<hr/>
 
 https://github.com/karenclaire/PopMovieSearchStage1/blob/master/app/src/main/java/com/example/android/popmoviesearchstage1/MovieUtils.java
 
@@ -31,3 +31,7 @@ https://github.com/ESIDEM/PopularMovieStage1
 https://github.com/prateekiiest/popular-movies-stage-1
 
 https://github.com/kheirus/popular-movies-stage1 *************
+
+https://github.com/ajinkya007/Popular-Movies-Stage-1
+
+https://github.com/Shrreya/Popular-Movies-Stage-1
